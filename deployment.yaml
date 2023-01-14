@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-        - image: michant/ekscourse:5
+        - image: michant/ekscourse:6
           name: flaskdemo
           resources: {}
 status: {}
